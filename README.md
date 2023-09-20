@@ -1,5 +1,7 @@
 # se2-stablecoin
 
+IMPORTANT: Remember about the fix to the deploy command in package.json of the foundry folder and take off the private key from there
+
 Overcollateralized stablecoin with wETH & wETH as collateral
 
 1. (Relative Stability) Anchored or Pegged -> $1.00
